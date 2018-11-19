@@ -1,12 +1,6 @@
 import pylab
 import matplotlib.cm as cm
 import networkx as nx
-import tkinter as tk
-import numpy as np
-import matplotlib.pyplot as plt
-import csv
-from tkinter.filedialog import askopenfilename
-from tkinter import messagebox
 
 
 # Generates the nodes
